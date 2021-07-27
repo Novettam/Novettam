@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Novettam
+- 👋 Hi, I’m Rui Archer
 - 👀 I’m interested in Software Engineering, DIY, Science Fiction, Video Games, Board Games and Hiking
 - 🌱 I’m currently learning too many things (Node.js, VC Code Extension Development)
 - 💞️ I’m looking to collaborate on small projects
